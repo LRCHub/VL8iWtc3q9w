@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "SCORPION",
+  "base_artist": "Reol",
+  "createdAt": "2026-03-12T23:14:25.813216Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Scorpion",
+      "artist": "Charles Hamilton",
+      "has_synced": false,
+      "path": "select/01_Scorpion_Charles_Hamilton.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Scorpion Hill",
+      "artist": "PUP",
+      "has_synced": true,
+      "path": "select/02_Scorpion_Hill_PUP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Scorpion Tail",
+      "artist": "Incise feat. Need Not Worry",
+      "has_synced": false,
+      "path": "select/03_Scorpion_Tail_Incise_feat._Need_Not_Worry.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Scorpion Tail (Ft. Need Not Worry)",
+      "artist": "Incise",
+      "has_synced": false,
+      "path": "select/04_Scorpion_Tail_(Ft._Need_Not_Worry)_Incise.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Scorpion Flower",
+      "artist": "Moonspell",
+      "has_synced": true,
+      "path": "select/05_Scorpion_Flower_Moonspell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Scorpion Sleeps",
+      "artist": "Rob Zombie",
+      "has_synced": false,
+      "path": "select/06_The_Scorpion_Sleeps_Rob_Zombie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Scorpion",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/07_The_Scorpion_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kiss Of The Scorpion",
+      "artist": "Monster Magnet",
+      "has_synced": true,
+      "path": "select/08_Kiss_Of_The_Scorpion_Monster_Magnet.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Scorpion Breath",
+      "artist": "Mastodon",
+      "has_synced": true,
+      "path": "select/09_Scorpion_Breath_Mastodon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Scorpion",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/10_Scorpion_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Slab of Butter (Scorpion) (feat. Sarah Barthel)",
+      "artist": "Miley Cyrus feat. Sarah Barthel",
+      "has_synced": true,
+      "path": "select/11_Slab_of_Butter_(Scorpion)_(feat._Sarah_Barthel)_Miley_Cyrus_feat._Sarah_Barthel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Slab of Butter (Scorpion)",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/12_Slab_of_Butter_(Scorpion)_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Scorpion Hymn",
+      "artist": "Erra",
+      "has_synced": true,
+      "path": "select/13_Scorpion_Hymn_Erra.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Scorpion Deathlock",
+      "artist": "The Devil Wears Prada",
+      "has_synced": true,
+      "path": "select/14_The_Scorpion_Deathlock_The_Devil_Wears_Prada.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Scorpion Sleeps",
+      "artist": "Rob Zombie",
+      "has_synced": true,
+      "path": "select/15_The_Scorpion_Sleeps_Rob_Zombie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SCORPION",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/pl_01_SCORPION_Reol.txt"
+    }
+  ]
+}
